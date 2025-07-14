@@ -1,7 +1,7 @@
 # 拼多多内推
 
 ## 【社招】
-请将简历发送至 [pdd-neitui@qq.com](mailto:pdd-neitui@qq.com)，内推简历将优先审核，通过率更高。期待您的加入！
+请将简历发送至 [pdd-neitui@qq.com](mailto:pdd-neitui@qq.com)，内推简历将优先审核，通过率更高。期待您的加入！  
 **邮件标题格式**：【内推】[姓名]-[岗位]-[手机号]-nXuS8kKTJ1    (nXuS8kKTJ1为内推码)
 附件请带上简历
 内推岗位可在 [拼多多社招官网](https://careers.pddglobalhr.com/jobs) 查看
